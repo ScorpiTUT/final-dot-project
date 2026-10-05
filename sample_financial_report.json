@@ -1,0 +1,49 @@
+{
+  "fiscalYear": 2025,
+  "period": "Q1",
+  "assets": {
+    "current": {
+      "cashAndEquivalents": 72000000,
+      "shortTermInvestments": 25000000,
+      "accountsReceivable": 31000000,
+      "inventory": 4500000,
+      "otherCurrentAssets": 3800000
+    },
+    "nonCurrent": {
+      "propertyPlantEquipment": 52000000,
+      "goodwillAndIntangibles": 24000000,
+      "longTermInvestments": 16000000,
+      "otherNonCurrentAssets": 6200000
+    }
+  },
+  "liabilities": {
+    "current": {
+      "accountsPayable": 9400000,
+      "shortTermDebt": 5000000,
+      "accruedExpenses": 7100000,
+      "otherCurrentLiabilities": 4200000
+    },
+    "nonCurrent": {
+      "longTermDebt": 22000000,
+      "deferredRevenue": 18500000,
+      "otherLongTermLiabilities": 3800000
+    }
+  },
+  "equity": {
+    "commonStock": 55000000,
+    "retainedEarnings": 104500000,
+    "additionalPaidInCapital": 5000000
+  },
+  "incomeStatement": {
+    "revenue": 78000000,
+    "cogs": 17500000,
+    "operatingExpenses": {
+      "researchAndDevelopment": 18200000,
+      "salesAndMarketing": 15400000,
+      "generalAndAdministrative": 7500000,
+      "otherOpEx": 1100000
+    },
+    "interestExpense": 850000,
+    "taxExpense": 3700000
+  }
+}

@@ -1,0 +1,22 @@
+Category,Line Item,Amount (USD)
+Current Assets,Cash & Equivalents,65000000
+Current Assets,Short-Term Investments,22000000
+Current Assets,Accounts Receivable,28500000
+Current Assets,Inventory,3200000
+Current Assets,Other Current Assets,4100000
+Non-Current Assets,Property Plant & Equipment,45000000
+Non-Current Assets,Goodwill & Intangibles,21000000
+Non-Current Assets,Long-Term Investments,14000000
+Non-Current Assets,Other Non-Current Assets,5500000
+Current Liabilities,Accounts Payable,8900000
+Current Liabilities,Short-Term Debt,4500000
+Current Liabilities,Accrued Expenses,6200000
+Current Liabilities,Other Current Liabilities,3800000
+Non-Current Liabilities,Long-Term Debt,18500000
+Non-Current Liabilities,Deferred Revenue,16000000
+Non-Current Liabilities,Other Long-Term Liabilities,3100000
+Shareholder Equity,Common Stock,50000000
+Shareholder Equity,Retained Earnings,92300000
+Shareholder Equity,Additional Paid-In Capital,5000000
+Profit & Loss,Revenue,68000000
+Profit & Loss,Cost of Goods Sold (COGS),14500000
